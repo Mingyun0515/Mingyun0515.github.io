@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Mingyun Kim and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Engineering.
+This is my home page! My name is Mingyun Kim and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Mechanical Engineering.
 
 ## Computer Science Projects
 
